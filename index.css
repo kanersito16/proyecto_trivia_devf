@@ -1,0 +1,18 @@
+.titulo {
+    text-align: center;
+}
+
+.filtro-label{
+    font-weight: bold;
+}
+
+.question{
+    font-weight: bold;
+}
+
+.puntos {
+    color: black;
+    font-size: xx-large;
+    font-weight: bold;
+
+}
